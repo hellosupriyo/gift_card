@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Happy Anniversary Gift Card",
+        "discount":"10",
+        "description":"This Gift Cards cannot be refunded or returned"
+    },
+    {
+        "id":2,
+        "title":"Happy Birthday Gift Card",
+        "discount":"25",
+        "description":"This Gift Cards cannot be refunded or returned"
+    },
+    {
+        "id":3,
+        "title":"Westside  13% Off Gift Card",
+        "discount":"13",
+        "description":"This Gift Cards cannot be refunded or returned"
+    },
+    {
+        "id":4,
+        "title":"Flat 12% off at checkout",
+        "discount":"12",
+        "description":"Spend ₹500 or more and get 12% off on Qualifying items"
+    },
+    {
+        "id":5,
+        "title":"The Body Shop Lakme Salon",
+        "discount":"5",
+        "description":"This Gift Cards cannot be refunded or returned"
+    },
+    {
+        "id":6,
+        "title":"Lakme Salon Lakme Salon",
+        "discount":"10",
+        "description":"This Gift Cards cannot be refunded or returned"
+    }
+
+]
